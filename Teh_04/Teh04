@@ -20,7 +20,7 @@
         Hyvin pieni ranta, jonne ei tosiaan 40 enempää ihmistä mahtuisi.
         
 
-    </p>    <!--p = class .teksti jotta tekstille taustaväri-->
+    </p>    <!--p = class .teksti jotta tekstille taustaväri--> <!--font-size: 0.85; CSS:sään-->
     <p>Tässä kuva
 
     </p>
