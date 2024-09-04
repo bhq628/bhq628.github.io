@@ -1,8 +1,10 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Tervetuloa sivuilleni</title> <!--Tämä on toinen parempi versio koko koodistani. Title on nettisivun "nimi"-->
+        <title>Tervetuloa sivuilleni_04</title>
         <meta charset="UTF-8">
+        <link rel="stylesheet" href="styles.css"
+        type="text/css" media="all">
     </head>
     <body>
         <h1>Tomas Relanderin sivut</h1> <!--Suurin otsikko-->
