@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Tervetuloa sivuilleni</title> <!--Tämä on toinen parempi versio koko koodistani. Title on nettisivun "nimi"-->
+        <meta charset="UTF-8">
+    </head>
+    <body>
+        <h1>Tomas Relanderin sivut</h1> <!--Suurin otsikko-->
+    <p>
+        Kerron hieman Kauklahdesta.
+        Olen itse asunut Kauklahdessa koko elämäni.
+        Se oli pieni kylä mutta viimeisen viidentoista vuoden aikana se on kasvanut valtavasti.
+        Kauklahdessa on rakennettu viiden vuoden aikana paljon uusia asuntoja.
+        </p>
+        <p>
+        Kauklahdessa on vain yksi uimaranta, josta tiedän.
+        Se on Kallvikin uimaranta.
+        Hyvin pieni ranta, jonne ei tosiaan 40 enempää ihmistä mahtuisi.
+        
+
+    </p>
+    <p>Tässä kuva
+
+    </p>
+    <img src="Kuva.jpg" alt="Kuva Kauklahdesta"><br> <!--br pakottaa edellisen tekstin tippumaan kuvan alle--> <!--hae tietoa termistä "alt="-->
+    Kuva 1.
+    </body>
+
+
+
+    </html>
