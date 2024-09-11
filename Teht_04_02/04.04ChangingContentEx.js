@@ -1,4 +1,4 @@
 // TODO: DEFINE A FUNCTION
-function buttonClicked() {
+function clickMe() {
     console.log("Hello!");
 }
