@@ -16,6 +16,9 @@ function initialize() {
 
 function goHome() {
    // todo
+   earth.setView([60.201334, 24.934075]); 
+   earth.setZoom(13);
+
 }
 
 function showCoords() {
