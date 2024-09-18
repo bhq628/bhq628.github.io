@@ -23,5 +23,5 @@ function goHome() {
 
 function showCoords() {
    // todo
-
+   alert(earth.getCenter());
 }
