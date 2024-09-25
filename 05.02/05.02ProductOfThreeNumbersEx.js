@@ -1,4 +1,6 @@
 // TODO: JavaScript code
-var x = 5;
-var y = 7;
-var c = 10;
+var first_product = 5;
+var second_product = 7;
+var third_product = 10;
+J = first_product*second_product*third_product
+console.log(J)
