@@ -7,4 +7,5 @@ function calculateUnitFine() {
 
     // Write the answer to the web page DOM, in the answer div, as the content
     document.getElementById("answerDiv").innerHTML= "Unit fine is " + unitFine.toFixed(2) + " euros.";
+    
 }
