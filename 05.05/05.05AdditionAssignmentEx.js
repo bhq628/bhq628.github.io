@@ -1,5 +1,4 @@
 // TODO: JavaScript code
-var fullText
-fullText = fullText + "aaa";
-fullText = fullText + "bbb";
-fullText = fullText + "ccc";
+var fullText = "aaa";
+console.log((a +="bbb"));
+console.log((a +="ccc"));
