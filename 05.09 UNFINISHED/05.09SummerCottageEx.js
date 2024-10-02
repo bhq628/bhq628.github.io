@@ -1,4 +1,7 @@
 function calculateRent() {
+
+	// TODO
+
 	var rent = document.getElementById("rent").value;
 	var participants = document.getElementById("participants").value;
 	
