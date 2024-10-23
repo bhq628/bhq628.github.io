@@ -1,9 +1,9 @@
 // Insert your JavaScript code here
-function Math.random() {
+function MathRandom() {
 
-}
+
 
     let randomizedNumber = Math.random(); {
-
     console.log(randomizedNumber);
     }
+}

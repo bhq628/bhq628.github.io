@@ -8,5 +8,5 @@ function calculateRent() {
 	var rentPerParticipant = rent / participants;
 	
 	var answerDiv = document.getElementById("answerDiv");
-	answerDiv.innerHTML = "Rent per participant: " + rentPerParticipant.toFixed(2) + " euros";
+	answerDiv.innerHTML = "Rent per participants is " + rentPerParticipant.toFixed(2) + " euros";
 }
