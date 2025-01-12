@@ -50,19 +50,15 @@ function calculate() {
 
     //Tulostus
     // Write the answer on the page, to the answer div, as content of the div (Doctors////s fee)
-let outputText = "Doctor\'s Fee is " + doctorsFee.toFixed(2) + "euros";
+    let outputText = "Doctor's Fee is " + doctorsFee.toFixed(2) + " euros.";
 
-outputText = outputText + "<br>Kela reimbursement is " + kelaKorvaus.toFixed(2) + "euros.";
+    outputText = outputText + "<br>Kela reimbursement is " + kelaKorvaus.toFixed(2) + " euros.";
 
-outputText = outputText + "<br>Office fee is " + kelaKorvaus.toFixed(2) + "euros.";
+    outputText = outputText + "<br>Office fee is " + officeFee.toFixed(2) + " euros.";
 
-outputText = outputText + "<br>Customer needs to pay " + asiakasMaksaa.toFixed(2) + "euros.";
+    outputText = outputText + "<br>Customer needs to pay " + asiakasMaksaa.toFixed(2) + " euros.";
 
 document.getElementById("answer").innerHTML = outputText;
 
-
-
-    
-    
-    
+ 
 }

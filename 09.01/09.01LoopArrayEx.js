@@ -7,12 +7,19 @@
 function loopArray() {
     // TODO
     let etunimet = ["Pekka", "Minna", "Heikki", "Anna", "Jukka", "Iida"];
-    let etunimet2 = ["Mike", "Mary", "John", "Rosalin"];
+    
     
     for (let i=0; i<etunimet.length; i++)
      {
         console.log(etunimet[i]);
     }
+
+    loopArraySecondary();
+
+}
+function loopArraySecondary() {
+
+    let etunimet2 = ["Mike", "Mary", "John", "Rosalin"];
 
     for (let i=0; i<etunimet2.length; i++)
         {
